@@ -4,7 +4,7 @@ This calculator is created using HTML, CSS and Java Script.
 
 ##Overview
 
-(1) Addition OPeration
+(1) Addition Operation
 (2) Subtracion Operation
 (3) Multiplication Operation
 (4) Division Operation
@@ -16,7 +16,7 @@ All the Operation can be performed for decimal(.) values also.
 	dialog box which returns the percentage value of that given number.
 (6) Exponent Operation
 	-Same as percentage operation for finding Exponential of numbers
-	first input(number) shuld be given then after tapping on '^' symbol
+	first input(number) should be given then after tapping on '^' symbol
 	in the dialog box the power of that number should be mentioned
 	after clicking on 'ok' the result will be displayed in the input box
 (7) Square-root Operation
